@@ -1,13 +1,14 @@
 Visit - https://lukeashur.github.io
 
 $ whoami
-- Luke Ashur | Cybersecurity & Web3 Enthusiast
+
+Luke Ashur | Cybersecurity & Web3 Enthusiast
 
 $ cat skills.txt
 - Linux | macOS | Cloud Security | Zero Trust
 - Web3 | Smart Contracts | GraphQL
 - Threat Analysis | Reverse Engineering
-- C | C++ | Bash
+- C | C++ | Bash | Python
 
 $ cat now.txt
 - 🛠 Building security tools & Web3 apps
