@@ -1,16 +1,23 @@
 Visit - https://lukeashur.github.io
 
-<!--
-**lukeashur/lukeashur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+$ whoami
+Luke Ashur | Cybersecurity & Web3 Enthusiast
 
-Here are some ideas to get you started:
+$ cat skills.txt
+- Linux | Cloud Security | Zero Trust
+- Web3 | Smart Contracts | GraphQL
+- Threat Analysis | Reverse Engineering
+- C | C++ | Bash
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ cat now.txt
+- 🛠 Building security tools & Web3 apps
+- 🎯 Preparing for Security+ certification
+- 📖 Writing about exploits & defenses
+
+$ ls -la projects/
+🔗 [Obsidian Cybersecurity Wiki](#) - Researching & documenting exploits   
+
+$ ping lukeashur.github.io
+📢 Blog: [lukeashur.github.io](https://lukeashur.github.io)  
+📬 Connect: [LinkedIn](#) | [X](http://x.com/Luke_Ashur)
+
