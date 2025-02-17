@@ -1,5 +1,3 @@
-Visit - https://lukeashur.github.io
-
 $ whoami
 - Luke Ashur | Cybersecurity & Web3 Enthusiast
 
