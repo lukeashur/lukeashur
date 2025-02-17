@@ -13,7 +13,7 @@ $ cat now.txt
 - 📖 Writing about exploits & defenses
 
 $ ls -la projects/
-- 🔗 Coming soon
+- 🔗
 
 $ ping lukeashur.github.io
 - 📢 Blog: [lukeashur.github.io](https://lukeashur.github.io)  
