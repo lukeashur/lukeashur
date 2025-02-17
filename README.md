@@ -1,5 +1,5 @@
 $ whoami
-- Luke Ashur | Cybersecurity & Web3
+- Luke Ashur
 
 $ cat skills.txt
 - Linux | macOS | Cloud Security | Zero Trust
