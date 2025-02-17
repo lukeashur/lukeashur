@@ -1,7 +1,7 @@
 Visit - https://lukeashur.github.io
 
 $ whoami
-Luke Ashur | Cybersecurity & Web3 Enthusiast
+- Luke Ashur | Cybersecurity & Web3 Enthusiast
 
 $ cat skills.txt
 - Linux | macOS | Cloud Security | Zero Trust
@@ -15,7 +15,7 @@ $ cat now.txt
 - 📖 Writing about exploits & defenses
 
 $ ls -la projects/
-- 🔗 [Obsidian Cybersecurity Wiki](#) - Researching & documenting exploits   
+- 🔗
 
 $ ping lukeashur.github.io
 - 📢 Blog: [lukeashur.github.io](https://lukeashur.github.io)  
