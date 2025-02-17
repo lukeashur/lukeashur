@@ -15,9 +15,9 @@ $ cat now.txt
 - 📖 Writing about exploits & defenses
 
 $ ls -la projects/
-🔗 [Obsidian Cybersecurity Wiki](#) - Researching & documenting exploits   
+- 🔗 [Obsidian Cybersecurity Wiki](#) - Researching & documenting exploits   
 
 $ ping lukeashur.github.io
-📢 Blog: [lukeashur.github.io](https://lukeashur.github.io)  
-📬 Connect: [X](http://x.com/Luke_Ashur)
+- 📢 Blog: [lukeashur.github.io](https://lukeashur.github.io)  
+- 📬 Connect: [X](http://x.com/Luke_Ashur)
 
