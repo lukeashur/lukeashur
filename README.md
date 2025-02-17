@@ -18,7 +18,6 @@ $ ls -la projects/
 🔗 [Obsidian Cybersecurity Wiki](#) - Researching & documenting exploits   
 
 $ ping lukeashur.github.io
-
 📢 Blog: [lukeashur.github.io](https://lukeashur.github.io)  
 📬 Connect: [X](http://x.com/Luke_Ashur)
 
