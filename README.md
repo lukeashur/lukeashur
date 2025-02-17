@@ -8,8 +8,8 @@ $ cat skills.txt
 - C | C++ | Bash | Python
 
 $ cat now.txt
-- 🛠 Building security tools & Web3 apps
 - 🎯 Preparing for Security+ certification
+- 🛠 Building security tools & Web3 apps
 - 📖 Writing about exploits & defenses
 
 $ ls -la projects/
