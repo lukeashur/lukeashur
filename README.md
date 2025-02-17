@@ -4,7 +4,7 @@ $ whoami
 Luke Ashur | Cybersecurity & Web3 Enthusiast
 
 $ cat skills.txt
-- Linux | Cloud Security | Zero Trust
+- Linux | macOS | Cloud Security | Zero Trust
 - Web3 | Smart Contracts | GraphQL
 - Threat Analysis | Reverse Engineering
 - C | C++ | Bash
@@ -19,5 +19,5 @@ $ ls -la projects/
 
 $ ping lukeashur.github.io
 📢 Blog: [lukeashur.github.io](https://lukeashur.github.io)  
-📬 Connect: [LinkedIn](#) | [X](http://x.com/Luke_Ashur)
+📬 Connect: [X](http://x.com/Luke_Ashur)
 
