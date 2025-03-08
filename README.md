@@ -8,7 +8,7 @@ $ cat skills.txt
 - C | C++ | Bash | Python
 
 $ cat now.txt
-- 🏆 Security+ certified
+- 🏆 CompTIA Security+ certified
 - 🛠 Building security tools & Web3 apps
 - 📖 Writing about exploits & defenses
 
