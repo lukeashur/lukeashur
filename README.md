@@ -10,7 +10,7 @@ $ cat skills.txt
 $ cat now.txt
 - 🏆 CompTIA Security+ certified
 - 🛠 Building security tools & Web3 apps
-- 📖 Writing about exploits & defenses
+- 📖 Blogging about innovative technologies
 
 $ ls -la projects/
 - 🔗
