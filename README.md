@@ -2,9 +2,9 @@ $ whoami
 - Luke Ashur
 
 $ cat skills.txt
+- Threat Hunter | Pentester | Reverse Engineer
 - Linux | macOS | Cloud Security
 - Web3 | Smart Contracts | GraphQL
-- Threat Hunter | Pentester | Reverse Engineer
 - C | C++ | Bash | Python
 
 $ cat now.txt
