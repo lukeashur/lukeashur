@@ -4,7 +4,7 @@ $ whoami
 $ cat skills.txt
 - Linux | macOS | Cloud Security | Zero Trust
 - Web3 | Smart Contracts | GraphQL
-- Threat Analysis | Pentesting | Reverse Engineering
+- Threat Hunting | Pentesting | Reverse Engineering
 - C | C++ | Bash | Python
 
 $ cat now.txt
